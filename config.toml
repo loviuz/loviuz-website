@@ -79,6 +79,10 @@ pygmentscodefencesguesssyntax = true
   name = "I miei progetti"
   weight = 3
   url  = "progetti/"
+[[menu.main]]
+  name = "Guide"
+  weight = 4
+  url  = "guide/"
 
 
 [imaging]
