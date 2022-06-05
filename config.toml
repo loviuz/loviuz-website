@@ -1,0 +1,86 @@
+baseurl = "https://loviuz.blog"
+title = "Loviuz"
+theme = "hugo-coder"
+languagecode = "it"
+defaultcontentlanguage = "it"
+pluralizeListTitles = false
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  author = "Fabio Lovato"
+  info = "Sviluppatore, Imprenditore e Hacker"
+  description = "Sito web personale di Fabio Lovato"
+  keywords = "hacking,linux,opensource,blog,developer,personal"
+  avatarurl = "images/loviuz_avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
+
+  since = 2011
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = ["css/custom.css", "css/bootstrap.css"]
+  #customSCSS = ["scss/custom.scss"]
+  #customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categorie"
+
+# Social links
+[[params.social]]
+  name = "Telegram"
+  icon = "fa fa-telegram fa-2x"
+  weight = 1
+  url = "https://t.me/loviuz"
+[[params.social]]
+  name = "Mastodon"
+  icon = "fa fa-mastodon fa-2x"
+  weight = 2
+  url = "https://mastodon.uno/web/@loviuz86"
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 3
+  url = "https://github.com/loviuz/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 4
+  url = "https://gitlab.com/loviuz/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 5
+  url = "https://twitter.com/loviuz/"
+
+# Menu links
+[[menu.main]]
+  name = "Chi sono"
+  weight = 1
+  url = "chi-sono/"
+[[menu.main]]
+  name = "Hacking civico"
+  weight = 2
+  url  = "hacking/"
+[[menu.main]]
+  name = "Progetti"
+  weight = 3
+  url  = "progetti/"
+
+
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'Box'

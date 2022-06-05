@@ -1,0 +1,28 @@
+<section class="container page">
+  <a href="{{.Site.BaseURL}}{{.Section}}"><i class="fa fa-chevron-left fa-fw"></i> Torna a {{.Section}}</a>
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+          {{ .Title }}
+        </a>
+      </h1>
+
+      {{ if .Params.tags }}
+        <ul class="tags">
+          {{ range .Params.tags }}
+            <li>#{{ . }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </header>
+
+    {{ $image := .Resources.GetMatch .Params.image }}
+    {{ if $image }}
+      {{ $image := $image.Crop "1280x250" }}
+      <img src="{{ $image.RelPermalink }}">
+    {{ end }}
+
+    {{ .Content }}
+  </article>
+</section>

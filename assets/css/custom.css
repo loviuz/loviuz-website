@@ -1,0 +1,73 @@
+.projects-list{
+    text-align: left;
+}
+
+.list ul.projects-list > li{
+    display: inline;
+}
+
+.projects-list > li > img{
+    float: left;
+}
+
+.list ul.tags,
+.page ul.tags{
+    text-align: right;
+}
+
+.list ul.tags > li{
+    display: inline;
+    color: #999;
+    font-size: 80%;
+}
+
+.page ul.tags > li{
+    display: inline;
+    color: #999;
+}
+
+.list ul.projects-list li .title{
+    font-size: 1.5em;
+    line-height: 1.3em;
+    margin-bottom: 0.5em;
+}
+
+.list ul li .date{
+    width: auto;
+    float: right;
+    margin: 0;
+}
+
+.project-image{
+    display: inline;
+    float: left;
+    position: relative;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+.project-image > span{
+    position: absolute;
+    bottom: 15px;
+    right: -5px;
+    color: #fff;
+    padding: 0em .5em;
+    background: rgb(16, 104, 192);
+    font-size: 70%;
+}
+
+
+@media (max-width: 768px) {
+    .projects-list > li > img{
+        float: none;
+        margin-right: 0px;
+    }
+
+    .projects-list > li > a{
+        float: right;
+    }
+
+    .projects-list .progress{
+        width: 100%;
+    }
+}
