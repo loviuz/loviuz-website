@@ -1,4 +1,4 @@
-baseurl = "https://loviuz.blog"
+baseurl = "https://loviuz.me"
 title = "Loviuz"
 theme = "hugo-coder"
 languagecode = "it"
@@ -32,6 +32,9 @@ pygmentscodefencesguesssyntax = true
   customCSS = ["css/custom.css", "css/bootstrap.css", "css/font-awesome-animation.min.css"]
   #customSCSS = ["scss/custom.scss"]
   #customJS = ["js/custom.js"]
+
+[params.goatCounter]
+  code = "loviuz"
 
 [taxonomies]
   category = "categorie"
