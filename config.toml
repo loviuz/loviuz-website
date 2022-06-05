@@ -29,7 +29,7 @@ pygmentscodefencesguesssyntax = true
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  customCSS = ["css/custom.css", "css/bootstrap.css"]
+  customCSS = ["css/custom.css", "css/bootstrap.css", "css/font-awesome-animation.min.css"]
   #customSCSS = ["scss/custom.scss"]
   #customJS = ["js/custom.js"]
 
@@ -73,7 +73,7 @@ pygmentscodefencesguesssyntax = true
   weight = 2
   url  = "hacking/"
 [[menu.main]]
-  name = "Progetti"
+  name = "I miei progetti"
   weight = 3
   url  = "progetti/"
 

@@ -4,6 +4,7 @@ slug: hacking
 date: 2022-06-04T17:34:00+02:00
 ---
 
+![Futuristic](hacker-g7347d68f5_1280.jpg)
 
 ## Cosa fa un hacker?
 Diversamente da come lo dipingono i media, cioè come un pirata informatico o chi invia virus, ransomware o lancia attacchi informatici, l'[hacker](https://it.wikipedia.org/wiki/Hacker) è semplicemente una persona curiosa che smonta, rimonta, studia qualsiasi cosa per il gusto di farlo e per raggiungere anche degli obiettivi "smanettando". Spesso è un termine legato al mondo della cybersicurezza ma non è così.

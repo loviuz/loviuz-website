@@ -1,5 +1,7 @@
 <section class="container page">
-  <a href="{{.Site.BaseURL}}{{.Section}}"><i class="fa fa-chevron-left fa-fw"></i> Torna a {{.Section}}</a>
+  {{ if .Section }}
+    <a href="{{.Site.BaseURL}}{{.Section}}"><i class="fa fa-chevron-left fa-fw"></i> Torna a {{.Section}}</a>
+  {{ end }}
   <article>
     <header>
       <h1 class="title">

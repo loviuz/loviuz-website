@@ -6,7 +6,7 @@ date: 2022-06-04T16:34:00+02:00
 
 Sono un **programmatore** web italiano dell'annata 86, appassionato di **hacking** in qualsiasi forma e dal 2015 **imprenditore** in un'azienda di sviluppo software fondata con un socio e dipendenti, dove sviluppiamo il gestionale open source [OpenSTAManager](https://openstamanager.com).
 
-![Io a computer](/images/work-g21747db40_1280.jpg)
+![Io a computer](work-g21747db40_1280.jpg)
 
 
 ### Perché questo blog?

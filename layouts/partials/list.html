@@ -21,6 +21,9 @@
               <img src="{{ $image.RelPermalink }}">
             </a>
             <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2006" ) }}</span>
+            {{ if .Params.new }}
+              <span class="new"><i class="fa fa-flask animated faa-rising"></i></span>
+            {{ end }}
           </div>
           
           {{ if .Params.obiettivo_percent }}

@@ -32,21 +32,9 @@
     margin-bottom: 0.5em;
 }
 
-.list ul li .date{
+.list ul.projects-list li .date{
     width: auto;
-    float: right;
     margin: 0;
-}
-
-.project-image{
-    display: inline;
-    float: left;
-    position: relative;
-    margin-right: 1em;
-    margin-bottom: 1em;
-}
-
-.project-image > span{
     position: absolute;
     bottom: 15px;
     right: -5px;
@@ -56,6 +44,25 @@
     font-size: 70%;
 }
 
+.list ul.projects-list li .new{
+    width: auto;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    color: #fff;
+    padding: 0em .5em;
+    background: rgb(207, 9, 105);
+}
+
+.project-image{
+    display: inline;
+    float: left;
+    position: relative;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
 
 @media (max-width: 768px) {
     .projects-list > li > img{
