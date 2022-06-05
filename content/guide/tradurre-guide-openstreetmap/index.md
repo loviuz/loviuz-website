@@ -1,6 +1,6 @@
 ---
 title: Tradurre la guida di OpenStreetMap
-description: Gestionale open source per la gestione dell'assistenza tecnica e per la fatturazione elettronica 
+description: Come tradurre il wiki di OpenStreetMap in italiano (o altre lingue) 
 date: 2022-06-05T23:28:00+02:00
 image: tradurre-wiki-openstreetmap.jpg
 categories:
