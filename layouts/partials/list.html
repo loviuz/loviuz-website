@@ -12,10 +12,10 @@
   <ul class="projects-list">
     {{ range .Paginator.Pages }}
       {{ $image := .Resources.GetMatch .Params.image }}
-      {{ $image := $image.Resize "x350" }}
-      {{ $image := $image.Crop "350x350" }}
-      {{ if $image }}
       <li>
+      {{ if $image }}
+        {{ $image := $image.Resize "x350" }}
+        {{ $image := $image.Crop "350x350" }}
           <div class="project-image">
             <a href="{{ .Params.externalLink | default .RelPermalink }}">
               <img src="{{ $image.RelPermalink }}">
