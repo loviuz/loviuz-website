@@ -80,8 +80,12 @@ pygmentscodefencesguesssyntax = true
   weight = 3
   url  = "progetti/"
 [[menu.main]]
-  name = "Guide"
+  name = "I miei contributi"
   weight = 4
+  url  = "contributi/"
+[[menu.main]]
+  name = "Guide"
+  weight = 5
   url  = "guide/"
 
 
