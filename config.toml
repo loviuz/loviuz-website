@@ -95,3 +95,6 @@ pygmentscodefencesguesssyntax = true
   hint = 'photo'
   quality = 75
   resampleFilter = 'Box'
+
+[blackfriday]
+  taskLists = true

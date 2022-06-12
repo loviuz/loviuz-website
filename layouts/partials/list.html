@@ -20,9 +20,12 @@
             <a href="{{ .Params.externalLink | default .RelPermalink }}">
               <img src="{{ $image.RelPermalink }}">
             </a>
-            <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2006" ) }}</span>
+            <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "01 January 2006" ) }}</span>
             {{ if .Params.new }}
               <span class="new"><i class="fa fa-flask animated faa-rising"></i></span>
+            {{ end }}
+            {{ if eq .Params.obiettivo_percent 100 }}
+              <span class="completed"><i class="fa fa-check"></i></span>
             {{ end }}
           </div>
           
