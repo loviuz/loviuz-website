@@ -135,3 +135,14 @@
 hr.light{
     border: 1px solid #eee;
 }
+
+blockquote{
+    padding: 10px;
+    border-left: 4px solid #e0e0e0;
+    line-height: 3.2rem;
+}
+
+blockquote p{
+    font-size: 1.2em;
+    margin: 2rem 0 2rem 1em;
+}
