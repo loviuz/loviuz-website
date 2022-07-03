@@ -1,0 +1,67 @@
+{{ define "title" }}
+  {{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+  <section class="container list">
+    <h1 class="title">
+      <a class="title-link" href="{{ .Permalink | safeURL }}">
+        {{- if eq .Kind "term" -}}
+          {{- i18n .Data.Plural 1 | title -}}
+          {{- print ": " -}}
+        {{- end -}}
+        {{- i18n (lower .Title) | default .Title | title -}}
+      </a>
+    </h1>
+    {{ .Content }}
+    <ul class="news-list">
+      {{ range .Paginator.Pages }}
+        {{ $image := .Resources.GetMatch .Params.image }}
+        <li>
+        {{ if $image }}
+          {{ $image := $image.Resize "x260" }}
+          {{ $image := $image.Crop "260x180" }}
+            <div class="news-image">
+              <a href="{{ .Params.externalLink | default .RelPermalink }}">
+                <img src="{{ $image.RelPermalink }}">
+              </a>
+            </div>
+
+            <div class="date">
+              <span class="posted-on">
+                <i class="fa fa-calendar" aria-hidden="true"></i>
+                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                  {{ .Date | time.Format (.Site.Params.dateFormat | default "2 January 2006" ) }}
+                </time>
+              </span>
+              <span class="reading-time">
+                <i class="fa fa-clock-o" aria-hidden="true"></i>
+                {{ i18n "reading_time" .ReadingTime }}
+              </span>
+            </div>
+            <hr class="light">
+
+            <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a><br>
+            <span class="description">{{ .Params.description }}</span>
+            <br><br>
+
+            {{ if .Params.tags }}
+              <div class="tags">
+                <i class="fa fa-tag" aria-hidden="true"></i>
+                {{- range $index, $el := .Params.tags -}}
+                  {{- if gt $index 0 }}
+                    <span class="separator">•</span>
+                  {{- end }}
+                  <span class="tag">
+                    <a href="{{ ( printf "tags/%s/" ( . | urlize ) ) | relLangURL }}">{{ . }}</a>
+                  </span>
+                {{- end -}}
+              </div>
+            {{ end }}
+            <div style="clear:both;"></div>
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}
