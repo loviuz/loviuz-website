@@ -87,6 +87,10 @@
     margin-bottom: 1em;
 }
 
+.page ul.tags > li{
+    display: inline;
+    color: #999;
+}
 
 /** NEWS **/
 .news-image{
@@ -95,6 +99,7 @@
     position: relative;
     margin-right: 1em;
     margin-bottom: 1em;
+    width: 40%;
 }
 
 .list ul.news-list li .date{
@@ -116,6 +121,7 @@
     border-radius: 0.6rem;
     line-height: 1.4em;
     font-size: 0.8em;
+    margin-bottom: 2px;
 }
 
 .list ul.news-list .tag a{

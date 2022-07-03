@@ -19,8 +19,8 @@
       {{ end }}
     </header>
 
-    {{ $image := .Resources.GetMatch .Params.image }}
-    {{ if $image }}
+    {{ if .Params.images }}
+      {{ $image := .Resources.GetMatch (index (.Params.images) 0) }}
       {{ $image := $image.Crop "1280x250" }}
       <img src="{{ $image.RelPermalink }}">
     {{ end }}

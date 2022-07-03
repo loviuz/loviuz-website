@@ -15,11 +15,11 @@
     {{ .Content }}
     <ul class="news-list">
       {{ range .Paginator.Pages }}
-        {{ $image := .Resources.GetMatch .Params.image }}
+        {{ $image := .Resources.GetMatch (index (.Params.images) 0) }}
         <li>
         {{ if $image }}
-          {{ $image := $image.Resize "x260" }}
-          {{ $image := $image.Crop "260x180" }}
+          {{ $image := $image.Resize "x480" }}
+          {{ $image := $image.Crop "480x350" }}
             <div class="news-image">
               <a href="{{ .Params.externalLink | default .RelPermalink }}">
                 <img src="{{ $image.RelPermalink }}">

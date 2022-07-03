@@ -11,4 +11,13 @@
     .projects-list .progress{
         width: 100%;
     }
+
+    .news-image{
+        float: none;
+    }
+
+    .list ul.news-list li .reading-time{
+        display: block;
+        margin-left: 0;
+    }
 }

@@ -3,6 +3,9 @@
 {{ end }}
 {{ define "content" }}
   <section class="container post">
+    {{ if .Section }}
+      <a href="{{.Site.BaseURL}}/{{.Section}}"><i class="fa fa-chevron-left fa-fw"></i> Torna alle {{.Section}}</a>
+    {{ end }}
     <article>
       <header>
         <div class="post-title">
@@ -32,10 +35,14 @@
       </header>
 
       <div>
-        {{ if .Params.featuredImage }}
-          <img src="{{ .Params.featuredImage | relURL }}" alt="Featured image"/>
+        {{ with .Resources.GetMatch (index (.Params.images) 0) }}
+          {{ $image := . }}
+          {{ $image := $image.Crop "1280x250" }}
+          <img src="{{ $image.RelPermalink }}">
         {{ end }}
-        {{ .Content }}
+
+        {{ .TableOfContents }}
+        {{ .Content | safeHTML }}
       </div>
 
 
