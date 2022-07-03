@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .projects-list > li > img{
+        float: none;
+        margin-right: 0px;
+    }
+
+    .projects-list > li > a{
+        float: right;
+    }
+
+    .projects-list .progress{
+        width: 100%;
+    }
+}

@@ -44,7 +44,7 @@
           {{ if .Params.tags }}
             <ul class="tags">
               {{ range .Params.tags }}
-                <li>#{{ . }}</li>
+                <li><span class="hashtag">#</span>{{ . }}</li>
               {{ end }}
             </ul>
           {{ end }}

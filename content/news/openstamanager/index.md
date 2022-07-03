@@ -1,18 +1,13 @@
 ---
-title: OpenSTAManager
-description: Gestionale open source per la gestione dell'assistenza tecnica e per la fatturazione elettronica 
-date: 2008-08-11T17:00:00+02:00
-image: openstamanager.jpg
-obiettivo_percent: 99
-categories:
-    - Software
+title: Impegno civico aperto nei comuni
+description: Perché  
+date: 2022-07-03T15:08:00+02:00
+image: impegno-civico-opensource.jpg
 tags:
+    - hacking civico
+    - open data
     - open source
-    - gestionale
-    - italia
-    - imprenditoria
-# status: new, wip, done
-status: done
+    - openstreetmap
 ---
 
 OpenSTAManager è stato ed è ancora oggi il progetto più datato ma importante della mia carriera. E' nato per un idraulico nel lontano **2008** e grazie ai contributi della rete e dei colleghi di lavoro ora è diventato il software principale su cui lavoriamo nell'azienda di cui sono socio e dove lo personalizziamo per i clienti.

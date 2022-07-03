@@ -29,7 +29,7 @@ pygmentscodefencesguesssyntax = true
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  customCSS = ["css/custom.css", "css/bootstrap.css", "css/font-awesome-animation.min.css"]
+  customCSS = ["css/bootstrap.css", "css/font-awesome-animation.min.css", "css/custom.css", "css/responsive.css"]
   #customSCSS = ["scss/custom.scss"]
   #customJS = ["js/custom.js"]
 
