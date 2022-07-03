@@ -21,11 +21,12 @@
               <img src="{{ $image.RelPermalink }}">
             </a>
             <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "01 January 2006" ) }}</span>
-            {{ if .Params.new }}
-              <span class="new"><i class="fa fa-flask animated faa-rising"></i></span>
-            {{ end }}
-            {{ if eq .Params.obiettivo_percent 100 }}
-              <span class="completed"><i class="fa fa-check"></i></span>
+            {{ if eq .Params.status "new" }}
+              <span class="new"><i class="fa fa-lightbulb-o animated faa-flash"></i></span>
+            {{ else if eq .Params.status "wip" }}
+              <span class="wip"><i class="fa fa-gear animated faa-spin"></i></span>
+            {{ else if eq .Params.status "done" }}
+              <span class="completed"><i class="fa fa-check animated faa-pulse"></i></span>
             {{ end }}
           </div>
           

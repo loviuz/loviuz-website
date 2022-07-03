@@ -56,6 +56,18 @@
     background: rgb(207, 9, 105);
 }
 
+.list ul.projects-list li .wip{
+    width: auto;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    color: #fff;
+    padding: 0em .5em;
+    background: rgb(210, 119, 50);
+}
+
 .list ul.projects-list li .completed{
     width: auto;
     text-align: center;

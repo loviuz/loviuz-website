@@ -10,7 +10,9 @@ tags:
     - openstreetmap
     - italiano
     - traduzioni
----
+# status: new, wip, done
+status: done
+--- 
 
 
 La comunità di OpenStreetMap sta mantenendo una guida in stile Wiki come Wikipedia, cioè una guida collaborativa dove ognuno può contribuire quindi non solo per le mappe ma anche per le guide. Uno strumento così vasto come la gestione delle mappe di tutto il mondo senza una guida sarebbe impossibile da mantenere se non ci fossero delle linee guida, infatti la community propone nuovi tag da associare ai punti in mappa e tutto questo passa attraverso il wiki di OpenStreetMap. Ogni voce va tradotta nelle varie lingue per aiutare chi non conosce l'inglese che è la lingua principale con cui è stato scritto il wiki. Io ho iniziato oggi a tradurre questa semplice pagina:

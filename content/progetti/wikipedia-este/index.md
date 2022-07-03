@@ -11,7 +11,8 @@ tags:
     - cultura
     - este
     - italia
-new: true
+# status: new, wip, done
+status: new
 ---
 
 Dall'app [OsmAnd~](https://osmand.net/), la prima app ufficiale di OpenStreetMap, mi sono accorto che abilitando alcuni plugin è possibile vedere articoli di **Wikipedia** che sono legati al luogo che si sta visitando, e ho scoperto che alcuni di questi luoghi non sono aggiornati o per assurdo sono stati scritti da utenti non italiani e sono in inglese, come ad esempio la Basilica delle Grazie:
