@@ -38,6 +38,8 @@ pygmentscodefencesguesssyntax = true
 
 [taxonomies]
   category = "categorie"
+  tags = "tags"
+
 
 # Social links
 [[params.social]]
