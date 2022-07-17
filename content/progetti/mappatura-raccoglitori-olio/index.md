@@ -14,6 +14,7 @@ tags:
     - italia
 # status: new, wip, done
 status: wip
+include_donations: true
 ---
 
 

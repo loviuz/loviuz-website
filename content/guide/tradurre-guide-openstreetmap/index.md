@@ -13,6 +13,7 @@ tags:
     - traduzioni
 # status: new, wip, done
 status: done
+include_donations: true
 --- 
 
 

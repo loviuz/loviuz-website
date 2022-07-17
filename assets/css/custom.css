@@ -146,3 +146,66 @@ blockquote p{
     font-size: 1.2em;
     margin: 2rem 0 2rem 1em;
 }
+
+.donations > div{
+    position: relative;
+    width: 49%;
+    padding: 4%;
+    float: left;
+    min-height: 350px;
+}
+
+.donations > div > a.btn{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.donations > div:first-of-type{
+    margin-right: 2%;
+}
+
+.gradient-border {
+    --border-width: 3px;
+    position: relative;
+    justify-content: center;
+    background: #fff;
+    border-radius: var(--border-width);
+}
+.gradient-border::after {
+    position: absolute;
+    content: "";
+    top: calc(-1 * var(--border-width));
+    left: calc(-1 * var(--border-width));
+    z-index: -1;
+    width: calc(100% + var(--border-width) * 2);
+    height: calc(100% + var(--border-width) * 2);
+    background: linear-gradient(60deg, #5f86f2, #a65ff2, #f25fd0, #f25f61, #f2cb5f, #abf25f, #5ff281, #5ff2f0);
+    background-size: 300% 300%;
+    background-position: 0 50%;
+    border-radius: calc(2 * var(--border-width));
+    animation: moveGradient 4s alternate infinite;
+}
+
+@keyframes moveGradient {
+    50% {
+        background-position: 100% 50%;
+    }
+}
+
+.stripe-btn{
+    background: #635bff;
+    color: #fff;
+    padding: 0.1em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+
+@media (max-width: 768px){
+    .donations > div{
+        width: 100%;
+        margin: 2%;
+        min-height: auto;
+    }
+}

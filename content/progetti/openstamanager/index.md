@@ -14,6 +14,7 @@ tags:
     - imprenditoria
 # status: new, wip, done
 status: done
+include_donations: true
 ---
 
 OpenSTAManager è stato ed è ancora oggi il progetto più datato ma importante della mia carriera. E' nato per un idraulico nel lontano **2008** e grazie ai contributi della rete e dei colleghi di lavoro ora è diventato il software principale su cui lavoriamo nell'azienda di cui sono socio e dove lo personalizziamo per i clienti.

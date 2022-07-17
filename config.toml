@@ -33,6 +33,10 @@ pygmentscodefencesguesssyntax = true
   #customSCSS = ["scss/custom.scss"]
   #customJS = ["js/custom.js"]
 
+[params.donations]
+liberapay_username = "loviuz"
+stripe_donation_link = "https://donate.stripe.com/bIY14hdxefdxdoceUU"
+
 [params.goatCounter]
   code = "loviuz"
 

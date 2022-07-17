@@ -8,6 +8,7 @@ categories:
 tags:
     - open source
     - contributi
+include_donations: true
 ---
 
 ![Contributi](code-g625f41d23_1280.jpg)

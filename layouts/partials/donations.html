@@ -1,0 +1,27 @@
+<hr>
+<h4>👍 Ti piace questo contenuto?</h4>
+Se vuoi sostenere questo blog e le mie attività puoi scegliere di fare una donazione libera una tantum oppure di fare una donazione ricorrente per un sostegno continuativo.
+<br><br>
+
+{{ with .Site.Params.donations }}
+<div class="donations">
+    {{ if .liberapay_username }}
+        <div class="gradient-border">
+            <strong>🔄 DONAZIONE RICORRENTE</strong><br>
+            Qualsiasi importo a partire da <b>0,01 €</b>, anche in modo anonimo.<br>
+            
+            <small>Verrà trattenuto l'<b>1%</b> per finanziare la rimozione del carbonio nel mondo grazie all'iniziativa <a href="https://stripe.com/it/climate" target="_blank">Stripe Climate</a></small>.<br><br>
+            <a href="https://liberapay.com/{{ .liberapay_username }}/donate" class="btn"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+        </div>
+    {{ end }}
+
+    {{ if .stripe_donation_link }}
+        <div class="gradient-border">
+            <strong>✨ DONAZIONE UNA TANTUM</strong><br>
+            Qualsiasi importo a partire da <b>0,50 €</b>.
+            <br><br>
+            <a href="{{ .stripe_donation_link }}" class="btn stripe-btn"><i class="fa fa-cc-stripe"></i> Dona con Stripe</a>
+        </div>
+    {{ end }}
+</div>
+{{ end }}

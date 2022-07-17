@@ -27,4 +27,8 @@
 
     {{ .Content }}
   </article>
+
+  {{ if .Params.include_donations }}
+    {{ partial "donations.html" . }}
+  {{ end }}
 </section>
