@@ -172,6 +172,7 @@ blockquote p{
     background: #fff;
     border-radius: var(--border-width);
 }
+
 .gradient-border::after {
     position: absolute;
     content: "";
