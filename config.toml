@@ -37,6 +37,14 @@ pygmentscodefencesguesssyntax = true
 liberapay_username = "loviuz"
 stripe_donation_link = "https://donate.stripe.com/bIY14hdxefdxdoceUU"
 
+[params.socialshare]
+mastodon = true
+facebook = true
+linkedin = true
+twitter = true
+whatsapp = true
+email = true
+
 [params.goatCounter]
   code = "loviuz"
 

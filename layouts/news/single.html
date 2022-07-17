@@ -45,6 +45,9 @@
         {{ .Content | safeHTML }}
       </div>
 
+      {{ partial "socialshare.html" . }}
+
+
       {{ partial "donations.html" . }}
 
       <footer>
