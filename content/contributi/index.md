@@ -16,7 +16,7 @@ Per contribuire al software open source non è necessario essere prettamente dei
 
 Questi sono i miei contributi.
 
-## Software
+## 🧑‍💻 Software
 - **OpenSTAManager**: gestionale open source per l'assistenza tecnica e la fatturazione elettronica:
   - https://github.com/devcode-it/openstamanager
 - **Script e progetti personali minori**: lista dei miei progetti su GitHub:
@@ -25,17 +25,19 @@ Questi sono i miei contributi.
   - https://gitlab.com/ItalianLinuxSociety/linux.it
 - in aggiornamento...
 
-## Traduzioni
+## 🗣️ Traduzioni
 - **OpenStreetMap Wiki**: è la guida ufficiale di OpenStreetMap, gestita dalla community e da volontari su come utilizzare al meglio OpenStreetMap. Ho iniziato da poco a contribuire alla traduzione di alcune pagine:
   - https://wiki.openstreetmap.org/wiki/Special:Contributions/Loviuz
 - in aggiornamento...
 
-## Dati
+## ✍️ Dati
 - **Aggiornamento dati OpenStreetMap**: periodicamente aggiungo e aggiorno le mappe di OpenStreetMap tramite diverse app:
   - [EveryDoor](https://github.com/Zverik/every_door)
   - [StreetComplete](https://github.com/streetcomplete/StreetComplete)
   - [OsmAnd~](https://osmand.net/)
-  - [Le mie attività su OpenStreetMap](https://www.openstreetmap.org/user/loviuz/history)
+
+Puoi vedere i contributi completi su [le mie attività su OpenStreetMap](https://www.openstreetmap.org/user/loviuz/history).
+
 - **Vademecum ILS**: aggiornamento Vademecum cartaceo di ILS (Italian Linux Society) da distribuire ai LUG durante in occasione dei Linux Day:
   - https://github.com/ItalianLinuxSociety/Vademecum
 - in aggiornamento...
