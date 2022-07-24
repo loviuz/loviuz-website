@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
   info = "Sviluppatore, Imprenditore e Hacker"
   description = "Sito web personale di Fabio Lovato"
   keywords = "hacking,linux,opensource,blog,developer,personal"
-  avatarurl = "images/loviuz_avatar.jpg"
+  avatarurl = "images/loviuz_avatar.webp"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "images/favicon-32x32.png"

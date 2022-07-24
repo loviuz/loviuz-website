@@ -3,7 +3,7 @@ title: Tradurre la guida di OpenStreetMap
 description: Come tradurre il wiki di OpenStreetMap in italiano (o altre lingue) 
 date: 2022-06-05T23:28:00+02:00
 images:
-    - tradurre-wiki-openstreetmap.jpg
+    - tradurre-wiki-openstreetmap.webp
 categories:
     - Traduzioni
 tags:
@@ -35,12 +35,12 @@ Io sono partito da qui: https://wiki.openstreetmap.org/wiki/Tag:office%3Dgraphic
 
 1) In alto a destra cliccare su **Modifica sorgente**:
 
-![Modifica sorgente](modifica-sorgente.jpg)
+![Modifica sorgente](modifica-sorgente.webp)
 
 
 2) Copiare tutto il sorgente:
 
-![Copia sorgente](copia-sorgente.jpg)
+![Copia sorgente](copia-sorgente.webp)
 
 3) Creare la nuova pagina aggiungendo al link la stringa **IT:** prima del titolo, quindi l'indirizzo deve cambiare da:
 ```
@@ -52,10 +52,10 @@ https://wiki.openstreetmap.org/wiki/IT:Tag:office%3Dgraphic_design
 ```
 
 Se la pagina italiana già esiste si aprirà per la modifica, altrimenti verrà chiesto di creare la nuova pagina:
-![Crea pagina](crea-pagina.jpg)
+![Crea pagina](crea-pagina.webp)
 
 4) Incolla ora il testo copiato dalla versione inglese, traducilo, visualizza l'anteprima per essere sicuro che qualche traduzione non sia errata e poi salva la pagina per pubblicarla:
 
-![Traduci](traduci.jpg)
+![Traduci](traduci.webp)
 
 Hai imparato come tradurre il wiki di OpenStreetMap! 🥳

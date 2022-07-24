@@ -3,7 +3,7 @@ title: Internet ieri, oggi e domani
 description: Ripercorriamo come è nata Internet, come è oggi e cosa può diventare
 date: 2022-07-03T15:08:00+02:00
 images:
-    - artificial-intelligence-gb1150c6f9_1280.jpg
+    - artificial-intelligence-gb1150c6f9_1280.webp
 layout: news
 tags:
     - internet
@@ -19,7 +19,7 @@ In un [articolo su Wired](https://www.wired.it/internet/web/2019/03/11/internet-
 
 Internet era un insieme di utenti e servizi totalmente indipendenti e diffusi in rete e la possiamo rappresentare così:
 
-![Com'era Internet](internet1.jpg)
+![Com'era Internet](internet1.webp)
 
 I 2 principali inventori di quello che è il World Wide Web (WWW) sono [Tim Berners-Lee](https://it.wikipedia.org/wiki/Tim_Berners-Lee) e [Robert Cailliau](https://it.wikipedia.org/wiki/Robert_Cailliau).
 
@@ -44,7 +44,7 @@ Al tempo il famoso **cloud** non esisteva. Esistevano solo personal computer e s
 
 Se tutto questo spazio è gestito da pochi grossi colossi, chiamati in gergo **Big Tech**, la nostra libertà nel mondo digitale, quindi in qualsiasi ambito, sarebbe in pericolo. La rete Internet di oggi è centralizzata come in questa immagine:
 
-![Internet centralizzata](internet3.jpg)
+![Internet centralizzata](internet3.webp)
 
 
 La realtà è diventata complessa da gestire nel mondo di Internet. Internet è diventata una seconda vita che viaggia molto velocemente, infatti in pochi istanti possiamo parlare o vedere ciò che succede in qualsiasi parte del mondo, e oltretutto possiamo anche far parte di certi cambiamenti, basta vedere la recente **guerra in Ucraina** che tramite i social network la stiamo vivendo quasi in prima persona grazie ai contenuti che vengono pubblicati in zona di guerra. C'è da fidarsi però di tutto ciò che viene pubblicato? Chi pubblica tutto questo e che interessi ha?
@@ -108,7 +108,7 @@ C'è un bell'articolo sul [Corriere della Sera](https://www.corriere.it/tecnolog
 
 A differenza di Facebook, Twitter o altre classiche piattaforme centralizzate, Mastodon è decentralizzata. Per fare un paragone con le immagini di prima, una Internet decentralizzata sarebbe rappresentata così:
 
-![Come dovrebbe essere Internet](internet2.jpg)
+![Come dovrebbe essere Internet](internet2.webp)
 
 Questo significa che invece di connettermi a _facebook.com_ o _twitter.com_ mi posso collegare a _mastodon.uno_, _sociale.network_, _livellosegreto.it_ e via così. Solo in Italia ci sono [15 istanze](https://mastodon.it/it/istanze-mastodon-italiane). Che cosa sono le istanze? Sono proprio 15 server diversi, ognuno a tema, gestito da 15 diverse entità e ognuna con le proprie regole. Questo significa che chi amministra ciascuna istanza è più vicino agli utenti che ne fanno parte e avrà una comunità inferiore da gestire, riuscendo quindi a gestirla meglio e capire le problematiche che possono segnalare i vari utenti al contrario di una grande piattaforma globale che tagli i post degli utenti con l'aiuto di algoritmi imperfetti. E inoltre i post non vengono mostrati in base alle proprie preferenze perché non si è profilati e infatti i post sono in ordine cronologico. Sono tutte istanze indipendenti e sfruttano un protocollo standard e aperto ([ActivityPub](https://it.wikipedia.org/wiki/ActivityPub)) che permette di vedere anche i post di altre istanze federate.
 

@@ -11,7 +11,7 @@ tags:
 include_donations: true
 ---
 
-![Contributi](code-g625f41d23_1280.jpg)
+![Contributi](code-g625f41d23_1280.webp)
 
 Per contribuire al software open source non è necessario essere prettamente dei programmatori, ma è sufficiente un minimo di conoscenza informatica. Ci sono infatti molti modi per contribuire al mondo open source, a partire dallo sviluppare software al tradurlo, tradurre le guide e contribuire a dati liberi.
 

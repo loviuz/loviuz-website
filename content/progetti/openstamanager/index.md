@@ -3,7 +3,7 @@ title: OpenSTAManager
 description: Gestionale open source per la gestione dell'assistenza tecnica e per la fatturazione elettronica 
 date: 2008-08-11T17:00:00+02:00
 images:
-    - openstamanager.jpg
+    - openstamanager.webp
 obiettivo_percent: 99
 categories:
     - Software

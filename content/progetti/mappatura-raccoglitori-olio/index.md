@@ -3,7 +3,7 @@ title: Mappa dei raccoglitori di olio a Este
 description: Mappatura dei raccoglitori di olio alimentare esausto a Este tramite OpenStreetMap 
 date: 2022-06-11T18:40:00+02:00
 images:
-    - 52-1728x800_c.jpg
+    - 52-1728x800_c.webp
 obiettivo_percent: 100
 categories:
     - Mappe

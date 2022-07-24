@@ -3,7 +3,7 @@ title: Aggiornamento Este su Wikipedia
 description: Mappatura dei raccoglitori 
 date: 2022-06-05T10:30:00+02:00
 images:
-    - wikipedia-gdcbdb40d8_1280.jpg
+    - wikipedia-gdcbdb40d8_1280.webp
 obiettivo_percent: 10
 categories:
     - Cultura
