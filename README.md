@@ -1,4 +1,6 @@
 # Repository del sito web di loviuz.me
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Floviuz%2Floviuz-website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Floviuz%2Floviuz-website?ref=badge_shield)
+
 
 ## Come compilare
 ```bash
@@ -11,3 +13,7 @@ Per testare live:
 ```bash
 hugo server -D
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Floviuz%2Floviuz-website.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Floviuz%2Floviuz-website?ref=badge_large)
