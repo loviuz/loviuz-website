@@ -1,7 +1,7 @@
 {{- with $.Params.images -}}
 {{- $image := $.Resources.GetMatch (index . 0) -}}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ $image.Permalink }}"/>
+<meta name="twitter:image" content="{{ $image.Permalink | replaceRE ".webp" ".jpg" }}"/>
 {{ else -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}
