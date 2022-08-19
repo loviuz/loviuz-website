@@ -2,6 +2,7 @@
 title: Software Libero e Open Source, lo spiegone definitivo
 description: Un breve riassunto e spiegone di cosa significa "open source" per i non addetti ai lavori
 date: 2022-07-24T15:50:00+02:00
+slug: software-libero-open-source-spiegone
 images:
     - corona-ga58ac9ab1_1280.webp
 layout: news

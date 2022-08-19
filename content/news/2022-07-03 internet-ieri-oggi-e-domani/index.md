@@ -2,6 +2,7 @@
 title: Internet ieri, oggi e domani
 description: Ripercorriamo come è nata Internet, come è oggi e cosa può diventare
 date: 2022-07-03T15:08:00+02:00
+slug: internet-ieri-oggi-e-domani
 images:
     - artificial-intelligence-gb1150c6f9_1280.webp
 layout: news

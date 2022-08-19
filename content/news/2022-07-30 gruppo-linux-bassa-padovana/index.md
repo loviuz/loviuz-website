@@ -2,6 +2,7 @@
 title: Gruppo Linux Bassa Padovana
 description: Laboratorio di studio, sperimentazione e supporto per un digitale aperto, etico e libero
 date: 2022-07-30T15:08:00+02:00
+slug: gruppo-linux-bassa-padovana
 images:
     - linux-day-2017.webp
 layout: news
