@@ -111,8 +111,8 @@ email = true
   anchor = 'Smart'
   bgColor = '#ffffff'
   hint = 'photo'
-  quality = 75
-  resampleFilter = 'Box'
+  quality = 90
+  resampleFilter = 'MitchellNetravali'
 
 [blackfriday]
   taskLists = true
