@@ -4,7 +4,7 @@ description: Cosa sta nascendo e le prime iniziative
 date: 2022-08-19T11:49:00+02:00
 slug: nuovo-gruppo-linux-e-iniziative
 images:
-    - vote-3569999_1280.jpg
+    - vote-3569999_1280.webp
 layout: news
 tags:
     - linux
