@@ -25,15 +25,13 @@ Essendo dedicato alle classi di informatica ho pensato di strutturarlo in queste
 **9:00 - 9:45, classe terza**
 - Introduzione a Linux e al software libero
 - Storia di Internet ieri, oggi e domani
-- Open Innovation
-- Privacy e Diritti Digitali, GDPR, Snowden e Wikileaks
+- Privacy e Diritti Digitali, Edward Snowden, GDPR
  
  
 **10:00 - 11:00, classe quarta**
 - Open Data e come usarli: Openstreetmap come esempio
 - Progetti collaborativi pratici e aperti per programmatori
-- Violazioni del GDPR e la (non)privacy sul web
-- Il progetto Web Developer Privacy Kit
+- 2 progetti pratici su Este e open data
 
  
 **11:00 - 12:00, classe quinta**
