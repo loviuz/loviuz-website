@@ -28,6 +28,9 @@ Entrambi i file CSV sono legati tra loro dalla colonna **IdImpianto**.
 
 Tramite uno script PHP ho fatto in modo che vengano scaricati entrambi e venga generato un file da importare su uMap in formato [GeoJSON](https://geojson.org/), uno standard aperto per gestire una struttura di dati geografici.
 
+
+### [🗺️ ACCEDI ALLA MAPPA ➡️ ](https://umap.openstreetmap.fr/it/map/prezzi-distributori-italia_769756)
+
 ## TO-DO
 - avere un server in cui installare lo script e fare in modo che uMap aggiorni i punti ogni volta che ci sono aggiornamenti. Ora il caricamento del file in formato GeoJSON è manuale per cui la mappa non è aggiornata giorno per giorno
 
