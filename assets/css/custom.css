@@ -311,6 +311,11 @@ ul.share-icons li > * .label {
 .share-btn.reddit:hover      { background: #e54e00; }
 .share-btn.email:hover       { background: #363636; }
 
+p{
+    margin: 0.5em 0;
+    line-height: 1.4em;
+}
+
 @media (max-width: 768px){
     .donations > div{
         width: 100%;

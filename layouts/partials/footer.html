@@ -14,6 +14,6 @@
     {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>
     {{ if (and .Site.Params.commit .GitInfo) }}
       [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>]
-    {{ end }} - Questo sito non utilizza i cookies 😇
+    {{ end }} - <a href="{{ .Site.BaseURL }}/privacy-policy">🔒 Privacy Policy</a>
   </section>
 </footer>
