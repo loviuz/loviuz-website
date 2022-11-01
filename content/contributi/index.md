@@ -39,6 +39,8 @@ Questi sono i miei contributi.
 
 Puoi vedere i contributi completi su [le mie attività su OpenStreetMap](https://www.openstreetmap.org/user/loviuz/history).
 
+Ho contribuito, per ora molto poco, anche sui task di **[Humanitarian Openstreetmap Team](https://tasks.hotosm.org/)**.
+
 - **Vademecum ILS**: aggiornamento Vademecum cartaceo di ILS (Italian Linux Society) da distribuire ai LUG durante in occasione dei Linux Day:
   - https://github.com/ItalianLinuxSociety/Vademecum
 - in aggiornamento...
