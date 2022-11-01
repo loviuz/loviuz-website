@@ -65,19 +65,29 @@ email = true
   weight = 2
   url = "https://mastodon.uno/web/@loviuz86"
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
+  name = "Gitea.it"
+  icon = "fa fa-git fa-2x"
   weight = 3
-  url = "https://github.com/loviuz/"
+  url = "https://gitea.it/loviuz"
+[[params.social]]
+  name = "Codeberg"
+  icon = "fa fa-code fa-2x"
+  weight = 4
+  url = "https://codeberg.com/loviuz"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
-  weight = 4
-  url = "https://gitlab.com/loviuz/"
+  weight = 5
+  url = "https://gitlab.com/loviuz"
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 6
+  url = "https://github.com/loviuz/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 5
+  weight = 7
   url = "https://twitter.com/loviuz/"
 
 # Menu links
