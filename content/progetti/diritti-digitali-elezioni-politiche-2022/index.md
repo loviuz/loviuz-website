@@ -1,6 +1,6 @@
 ---
 title: Diritti Digitali nelle elezioni politiche 2022
-description: Mappatura dei raccoglitori di olio alimentare esausto a Este tramite OpenStreetMap 
+description: Analisi dei temi digitali discussi nelle campagne elettorali delle elezioni politiche 2022
 date: 2022-08-19T12:00:00+02:00
 images:
     - elezioni-politiche-2022.webp
