@@ -92,27 +92,27 @@ email = true
 
 # Menu links
 [[menu.main]]
-  name = "Chi sono"
+  name = "👋 Chi sono"
   weight = 1
   url = "chi-sono/"
 [[menu.main]]
-  name = "Hacking civico"
+  name = "🏛️ Hacking civico"
   weight = 2
   url  = "hacking/"
 [[menu.main]]
-  name = "I miei progetti"
+  name = "👨‍💻 Progetti"
   weight = 3
   url  = "progetti/"
 [[menu.main]]
-  name = "News"
+  name = "📢 News"
   weight = 4
   url  = "news/"
 [[menu.main]]
-  name = "I miei contributi"
+  name = "🤝 Contributi"
   weight = 5
   url  = "contributi/"
 [[menu.main]]
-  name = "Guide"
+  name = "📋 Guide"
   weight = 6
   url  = "guide/"
 
