@@ -41,6 +41,14 @@
           <br>
           <span class="description">{{ .Params.description }}</span>
 
+          {{ if .Params.quick_url }}
+            <br>
+            <div class="quick-div">
+              <span class="icon">🚀</span>
+              <a class="url" href="{{ .Params.quick_url }}" target="_blank">Accesso rapido</a>
+            </div>
+          {{ end }}
+
           {{ if .Params.tags }}
             <ul class="tags">
               {{ range .Params.tags }}

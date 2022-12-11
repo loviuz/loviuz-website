@@ -323,3 +323,31 @@ p{
         min-height: auto;
     }
 }
+
+.quick-div{
+    color: #fff;
+    display: inline-block;
+    line-height: 1em;
+    border: none;
+}
+.quick-div > .url{
+    text-decoration: none;
+    color: #fff;
+    line-height: 1.8em;
+    padding: 8px;
+    transition: all ease 0.5s;
+    background: #23b571;
+    margin-left: -4px;
+}
+
+.quick-div > .url:hover{
+    background: #076137;
+    color: #fff;
+    margin-left: 0;
+}
+
+.quick-div > .icon{
+    padding: 8px;
+    background: #fff;
+    border: 1px solid #ddd;
+}

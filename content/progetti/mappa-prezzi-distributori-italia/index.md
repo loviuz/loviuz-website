@@ -15,6 +15,7 @@ tags:
 # status: new, wip, done
 status: wip
 include_donations: true
+quick_url: https://is.gd/prezzidistributori
 ---
 
 Mi sono imbattuto nel link del MISE (MInistero dello Sviluppo Economico) tramite il gruppo Telegram di **OpenStreetMap Italia** in cui si parlava di usare gli open data del MISE per aggiornare la mappa di openstreetmap riguardo i distributori.

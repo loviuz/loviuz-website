@@ -13,6 +13,7 @@ tags:
 # status: new, wip, done
 status: wip
 include_donations: true
+quick_url: https://gitea.it/loviuz/digitalrights-elezioni2022
 ---
 
 

@@ -14,6 +14,7 @@ tags:
 # status: new, wip, done
 status: new
 include_donations: true
+quick_url: https://codeberg.org/loviuz/web-developer-privacy-kit/
 ---
 
 

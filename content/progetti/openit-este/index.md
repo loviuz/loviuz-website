@@ -15,6 +15,7 @@ tags:
 # status: new, wip, done
 status: new
 include_donations: true
+quick_url: https://t.me/openit_este
 ---
 
 ## Tanto tempo fa...

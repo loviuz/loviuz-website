@@ -15,6 +15,7 @@ tags:
 # status: new, wip, done
 status: wip
 include_donations: true
+quick_url: https://mapcomplete.osm.be/waste.html?z=12&lat=45.22678&lon=11.67606&language=en
 ---
 
 
