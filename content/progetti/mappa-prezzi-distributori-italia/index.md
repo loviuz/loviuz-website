@@ -29,6 +29,19 @@ Entrambi i file CSV sono legati tra loro dalla colonna **IdImpianto**.
 Tramite uno script PHP ho fatto in modo che vengano scaricati entrambi e venga generato un file da importare su uMap in formato [GeoJSON](https://geojson.org/), uno standard aperto per gestire una struttura di dati geografici.
 
 
+## Come funziona
+Appena si effettua l'accesso occorre avvicinarsi alla propria zona con il tasto di geolocalizzazione o con il tasto di ricerca si può ricercare un luogo preciso. Dopo va cliccato il pulsante l'ultimo pulsante sulla sinistra a forma di cilindro per scegliere il tipo di carburante e apparirà in lista una serie di marcatori che sono i distributori.
+
+Appaiono subito i prezzi dal minimo al massimo, infatti nei file CSV sono presenti i prezzi del self-service e quelli del servito. A volte sono uguali. A fianco dei prezzi c'è un pallino che indica:
+- verde: prezzi aggiornati negli ultimi 3 giorni
+- arancione: prezzi aggiornati fra 4 e 7 giorni
+- rosso: prezzi aggiornati oltre 7 giorni
+
+Al click sul marcatore appaiono ulteriori dettagli sul distributore e un pulsante **Guidami qui** per aprire l'app predefinita del telefono per navigare fino al distributore 🙌
+
+![Mappa mobile](mappa-mobile.webp)
+
+
 ### [🗺️ ACCEDI ALLA MAPPA ➡️ ](https://umap.openstreetmap.fr/it/map/prezzi-distributori-italia_769756)
 
 ## TO-DO
