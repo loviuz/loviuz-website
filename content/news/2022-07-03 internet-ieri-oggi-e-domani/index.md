@@ -8,7 +8,7 @@ images:
 layout: news
 tags:
     - internet
-    - approfondimenti
+    - analisi
 ---
 
 La storia di Internet com'era ieri, cos'è oggi e cosa può diventare la ritengo una introduzione per i prossimi articoli del blog e per capire anche il motivo dei miei progetti e della mia visione di un mondo digitale aperto.

@@ -8,7 +8,7 @@ images:
 layout: news
 tags:
     - open source
-    - concetti
+    - analisi
 ---
 
 ## Intro
