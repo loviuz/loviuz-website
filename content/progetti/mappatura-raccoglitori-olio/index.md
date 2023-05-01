@@ -15,7 +15,7 @@ tags:
 # status: new, wip, done
 status: wip
 include_donations: true
-quick_url: https://mapcomplete.osm.be/waste.html?z=12&lat=45.22678&lon=11.67606&language=en
+quick_url: https://umap.openstreetmap.fr/it/map/raccoglitori-di-olio-da-cucina_907386
 ---
 
 
@@ -41,7 +41,7 @@ Questa è la cronistoria di ieri:
 Ho scoperto [come importare i punti dinamicamente su uMap](https://wiki.openstreetmap.org/wiki/IT:UMap/Guide/Importazione_di_dati_con_Overpass) sfruttando una query su [Overpass Turbo](https://overpass-turbo.eu/) e ci sono riuscito, ma dal [gruppo Telegram di OpenStreetMap Italia](https://t.me/OpenStreetMapItalia) mi hanno suggerito di appoggiarmi a MapComplete che aveva già una mappa personalizzata che mostra tutti i raccoglitori di rifiuti tra l'altro con un'icona per tipologia di rifiuto raccolto. La mappa è questa:
 
 
-### [🗺️ Mappa raccolta rifiuti ➡️ ](https://mapcomplete.osm.be/waste.html?z=12&lat=45.22678&lon=11.67606&language=en#)
+### [🗺️ Mappa raccolta rifiuti ➡️ ](https://umap.openstreetmap.fr/it/map/raccoglitori-di-olio-da-cucina_907386)
 
 ## TO-DO
 - [x] trovare i raccoglitori fisicamente
