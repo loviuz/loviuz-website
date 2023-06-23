@@ -15,7 +15,7 @@ tags:
 # status: new, wip, done
 status: wip
 include_donations: true
-quick_url: https://is.gd/prezzidistributori
+quick_url: https://umap.openstreetmap.fr/it/map/distributori-prezzi-italia_932492
 ---
 
 Mi sono imbattuto nel link del MISE (MInistero dello Sviluppo Economico) tramite il gruppo Telegram di **OpenStreetMap Italia** in cui si parlava di usare gli open data del MISE per aggiornare la mappa di openstreetmap riguardo i distributori.
@@ -43,7 +43,7 @@ Al click sul marcatore appaiono ulteriori dettagli sul distributore e un pulsant
 ![Mappa mobile](mappa-mobile.webp)
 
 
-### [🗺️ ACCEDI ALLA MAPPA ➡️ ](https://umap.openstreetmap.fr/it/map/prezzi-distributori-italia_769756)
+### [🗺️ ACCEDI ALLA MAPPA ➡️ ](https://umap.openstreetmap.fr/it/map/distributori-prezzi-italia_932492)
 
 ## TO-DO
 - avere un server in cui installare lo script e fare in modo che uMap aggiorni i punti ogni volta che ci sono aggiornamenti. Ora il caricamento del file in formato GeoJSON è manuale per cui la mappa non è aggiornata giorno per giorno
