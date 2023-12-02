@@ -19,14 +19,16 @@ Nell'era del **consumismo**, dell'usa e getta e della tecnologia si sono persi a
 
 > Se sto bene io, perché dovrei pensare alle altre persone?
 
-In vista del Natale inizia la corsa all'acquisto del regalo perfetto per le persone care. Ma se iniziassimo a donare a chi ne ha bisogno perché meno fortunatɜ di noi? Disagio sociale, povertà, guerre, diritti non garantiti, crisi climatica... Per nostra fortuna ci sono persone e associazioni che aiutano ininterrottamente altre persone e si dedicano a salvaguardare l'ambiente e gli animali. Sì, anche gli animali hanno diritto ad una vita dignitosa visto che sono esseri viventi e spesso vivono anche con noi.
+In vista del Natale inizia la corsa all'acquisto del regalo perfetto per le persone care. Ma se iniziassimo a donare a chi ne ha bisogno perché meno fortunatɜ di noi? Disagio sociale, povertà, guerre, diritti non garantiti, crisi climatica... Per nostra fortuna ci sono associazioni che aiutano ininterrottamente queste persone o si dedicano a salvaguardare l'ambiente e gli animali. Sì, anche gli animali hanno diritto ad una vita dignitosa dato che sono esseri viventi che spesso vivono con noi.
 
-Allora iniziamo anche noi a donare con un'esperienza di volontariato o una donazione monetaria alle associazioni per permettere di continuare nella loro missione. Le realtà benefiche sono numerose e possiamo trovarle anche sul nostro territorio.
+Allora iniziamo anche noi a **donare** con un'esperienza di volontariato o una donazione monetaria alle associazioni per permettere di continuare nella loro missione. Le realtà benefiche sono numerose e possiamo trovarle anche sul nostro territorio.
+
+![Insieme](people-2569234_1280-1.webp)
 
 
 ## 🐕 Cosa abbiamo scelto
 
-Nella nostra ricerca abbiamo scoperto l'associazione **Leudica**, rifugio del cane "Val di Maso" di Merlara in provincia di Padova, che si occupa non solo di adozioni ma anche di raccogliere tutte le cose necessarie per gli ospiti del rifugio (Spesa a 4 Zampe).
+Nella nostra ricerca abbiamo scoperto l'associazione **Leudica**, rifugio del cane "Val di Maso" di Merlara in provincia di Padova, che si occupa non solo di adozioni ma anche di raccogliere tutte le cose necessarie per gli ospiti del rifugio (Spesa a 4 Zampe). Per quest'anno abbiamo scelto di donare a questa associazione
 
 Questo è il loro sito web: http://leudica.org
 
@@ -72,6 +74,8 @@ Offrono cure gratuite e di qualità alle vittime della guerra e della povertà, 
 **Area:** nazionale
 
 Lavorano su più fronti per prevenire e sconfiggere le patologie pediatriche e garantire al tempo stesso le migliori diagnosi, cure ed assistenza ai piccoli pazienti. L’Istituto ospita 190 ricercatori e adotta un approccio multidisciplinare unico che integra conoscenze della biomedicina, della bioingegneria, della biochimica e della scienza dei materiali. Coopera inoltre con ospedali universitari e istituti di ricerca nazionali e internazionali; fornisce a studenti e ricercatori una formazione di alto livello nella ricerca pediatrica; promuove l’innovazione e il trasferimento tecnologico, e facilita il dialogo con il pubblico attraverso conferenze e attività educative.
+
+Puoi [donare](https://cittadellasperanza.org/dona-ora/) in vari modi dal loro [sito web](https://cittadellasperanza.org/).
 
 ---
 
