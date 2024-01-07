@@ -1,6 +1,6 @@
 ---
-title: Privacy Policy
-description: Questa pagina descrive la privacy policy di questo sito web.
+title: Trattamento dati personali
+description: Questa pagina descrive la politica sulla privacy di questo sito web.
 date: 2024-01-07T12:23:00+02:00
 
 ---
@@ -10,7 +10,7 @@ date: 2024-01-07T12:23:00+02:00
 **🇪🇺 🇮🇹 Fabio Lovato**
 
 Dati Personali:
-- indirizzo IP
+- nessuno
 
 #### 🗄️ Statistiche
 
@@ -23,7 +23,7 @@ Dati Personali:
 
 **Descrizione del servizio**
 
-Questo sito web ha lo scopo di informare e non ha scopo di lucro. Non raccoglie dati personali e sensibili degli utenti.
+Questo sito web ha lo scopo di informare e non ha scopo di lucro. Non raccoglie dati personali e sensibili degli utenti, nemmeno l'indirizzo IP.
 
 **Periodo di conservazione dei Dati Personali**
 
