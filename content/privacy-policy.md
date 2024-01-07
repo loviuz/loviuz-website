@@ -1,16 +1,16 @@
 ---
 title: Privacy Policy
 description: Questa pagina descrive la privacy policy di questo sito web.
-date: 2022-11-01T21:56:00+02:00
+date: 2024-01-07T12:23:00+02:00
 
 ---
 ### Dati Personali trattati per le seguenti finalità e utilizzando i seguenti servizi:
 #### 🗄️ Hosting
 
-**🇪🇺 🇮🇹 CoolNetwork S.A.S.**
+**🇪🇺 🇮🇹 Fabio Lovato**
 
 Dati Personali:
-- indirizzo IP secondo quanto specificato dalla privacy policy del servizio
+- indirizzo IP
 
 #### 🗄️ Statistiche
 
