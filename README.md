@@ -1,4 +1,4 @@
-# Repository del sito web di loviuz.me
+# Repository del sito web di loviuz.it
 
 ## Come compilare
 ```bash
