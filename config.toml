@@ -37,7 +37,7 @@ pygmentscodefencesguesssyntax = true
 liberapay_username = "loviuz"
 stripe_donation_link = "https://donate.stripe.com/bIY14hdxefdxdoceUU"
 
-[params.socialshare]
+[params.socialsshare]
 mastodon = true
 facebook = true
 linkedin = true
@@ -54,41 +54,41 @@ email = true
 
 
 # Social links
-[[params.social]]
+[[params.socials]]
   name = "Telegram"
   icon = "fa fa-telegram fa-2x"
   weight = 1
   url = "https://t.me/loviuz"
-[[params.social]]
+[[params.socials]]
   name = "Mastodon"
   icon = "fa fa-mastodon fa-2x"
   weight = 2
   url = "https://mastodon.uno/web/@loviuz86"
-[[params.social]]
+[[params.socials]]
   name = "Gitea.it"
   icon = "fa fa-git fa-2x"
   weight = 3
   url = "https://gitea.it/loviuz"
-[[params.social]]
+[[params.socials]]
   name = "Codeberg"
   icon = "fa fa-code fa-2x"
   weight = 4
   url = "https://codeberg.com/loviuz"
-[[params.social]]
+[[params.socials]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
   weight = 5
   url = "https://gitlab.com/loviuz"
-[[params.social]]
+[[params.socials]]
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 6
   url = "https://github.com/loviuz/"
-[[params.social]]
+[[params.socials]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 7
-  url = "https://twitter.com/loviuz/"
+  url = "https://x.com/loviuz/"
 
 # Menu links
 [[menu.main]]
