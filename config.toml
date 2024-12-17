@@ -104,7 +104,7 @@ email = true
   weight = 3
   url  = "progetti/"
 [[menu.main]]
-  name = "📢 News"
+  name = "📢 Novità"
   weight = 4
   url  = "news/"
 [[menu.main]]
