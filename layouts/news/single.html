@@ -36,13 +36,20 @@
 
       <div>
         {{ with .Resources.GetMatch (index (.Params.images) 0) }}
-          {{ $image := . }}
-          {{ $image := $image.Crop "1280x250" }}
-          <img src="{{ $image.RelPermalink }}">
-        {{ end }}
+            {{ $image := . }}
+            {{ $image_cropped := .Crop "1280x250" }}
 
-        {{ .TableOfContents }}
-        {{ .Content | safeHTML }}
+            {{ if $.Page.Params.fullcover }}
+              <img src="{{ $image.RelPermalink }}">
+            {{ else }}
+              <img src="{{ $image_cropped.RelPermalink }}">
+            {{ end }}
+          {{ end }}
+
+          {{ if not .Params.IgnoreTableOfContents }}
+            {{ .TableOfContents }}
+          {{ end }}
+          {{ .Content | safeHTML }}
       </div>
 
       {{ partial "socialshare.html" . }}
