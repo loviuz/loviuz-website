@@ -35,8 +35,8 @@ Quella cosa che manca è la **profondità**. Faccio un esempio:
 - faccio un regalo » sto facendo qualcosa di buono
 
 Rimane sempre, però, un "retrogusto" strano... sembra come di non aver concluso niente o di non essere appagati, o di non fare abbastanza:
-- quando mi chiedono qualcosa non sono ben informato e non so rispondere in modo puntuale
-- vedo amici e familiari 2 volte l'anno e non ricordo che lavoro fa lo zio o se era in pensione (aspetta, ma è mio zio o cugino di secondo grado?)
+- quando entro in una discussione di attualità non mi sento ben informato, non so approfondire e quindi non riesco a rispondere in modo puntuale
+- vedo amici e familiari 2 volte l'anno e non ricordo che lavoro fa lo zio o se era in pensione (aspetta, ma è zio o cugino di secondo grado??)
 - mi domando cosa ho realizzato di utile al mondo con il mio lavoro ma ricordo (forse) solo l'ultima rogna di ieri
 - mi sembra di regalare sempre le stesse cose o che i regali siano uno strano circolo vizioso da cui non si riesce a uscire
 
@@ -73,7 +73,7 @@ Quest'anno vorrei che le persone si regalassero **✈️ esperienze**, **⏳ tem
 ![Esperienza insieme](rafting-1259608_1280.webp)
 *Foto di [valeska salgado](://pixabay.com/it/users/vsalgado23-2226024/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1259608) da [Pixabay](https://pixabay.com/it//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1259608)*
 
-Un'esperienza insieme: un viaggio, un gioco o qualsiasi altra cosa che possa essere vissuta insieme. Racchiude sia il tempo e la profondità perché si sta insieme il tempo che, se usato bene, permette di scoprire qualcosa in modo profondo.
+Un viaggio, un gioco o qualsiasi altra cosa che possa essere vissuta insieme. Racchiude sia il tempo che la profondità. Il tempo che si sta insieme, se usato bene, permette di scoprire qualcosa di profondo e autentico. Prova a pensare alla differenza tra un albero ben piantato a terra da decenni rispetto a una piantina appoggiata a terra da poco.
 
 ### ⏳ Tempo
 
