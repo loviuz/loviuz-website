@@ -5,7 +5,7 @@ languagecode = "it"
 defaultcontentlanguage = "it"
 pluralizeListTitles = false
 
-paginate = 20
+pagination.pagerSize = 20
 
 pygmentsstyle = "bw"
 pygmentscodefences = true
@@ -126,3 +126,5 @@ email = true
 
 [blackfriday]
   taskLists = true
+
+ignoreLogs = ['warning-goldmark-raw-html']
